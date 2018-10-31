@@ -2,5 +2,5 @@
 
 BEGIN	\
 {
-	print "Proba-awk"
+	print "Nova proba-awk"
 }
